@@ -1,0 +1,10 @@
+class Header
+{
+	gameType = DM; // Game type, see 'class' columns in the table below
+	minPlayers = 1; //min # of players the mission supports
+	maxPlayers = 16; //max # of players the mission supports
+};
+
+respawn = "BASE";
+respawnDelay = 5;
+disabledAI = 1;

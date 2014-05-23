@@ -1,0 +1,1 @@
+player addEventHandler ["Killed", {[_this] execVM "onKilled.sqf";}];
